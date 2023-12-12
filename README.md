@@ -16,11 +16,7 @@ El NeuraSpeak Voice Assistant es una aplicación de asistente de voz en Python q
 - Python 3.x
 - Bibliotecas: `nltk`, `speech_recognition`, `language_tool_python`
 
-## Instrucciones de Uso
-1. Clona este repositorio: `git clone https://github.com/TuUsuario/NeuraSpeak-Voice-Assistant.git`
-2. Instala las dependencias: `pip install -r requirements.txt`
-3. Ejecuta el asistente: `python main.py`
-4. Selecciona la acción deseada según las opciones presentadas en la consola.
+
 
 ## Contribuciones
 ¡Contribuciones son bienvenidas! Si tienes sugerencias, mejoras o encuentras problemas, por favor abre un _issue_ o envía un _pull request_.
